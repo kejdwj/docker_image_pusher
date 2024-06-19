@@ -1,1 +1,2 @@
 redis:6.2.14-alpine3.20
+jenkins/jenkins:2.452.2-lts-jdk11
