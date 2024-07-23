@@ -1,1 +1,1 @@
-gogs/gogs:0.13
+redis:7.0.12
