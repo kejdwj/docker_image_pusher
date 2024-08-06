@@ -1,2 +1,3 @@
 redis:7.0.12
 rabbitmq:3.9.12-management
+nacos/nacos-server:1.4.1
