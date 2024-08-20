@@ -1,3 +1,5 @@
 redis:7.0.12
 rabbitmq:3.9.12-management
 nacos/nacos-server:1.4.1
+elasticsearch:7.17.7
+kibana:7.17.7
